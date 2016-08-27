@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONCESIONARIO>
+  <AUTOMOVIL>
+    <IMAGEN>/img/HSC443_1</IMAGEN>
+    <PRECIO>54900000</PRECIO>
+    <UBICACION>
+      <PAIS>colombia</PAIS>
+      <CIUDAD>medellin</CIUDAD>
+      <LOCALIDAD>poblado</LOCALIDAD>
+    </UBICACION>
+    <NUMERO_DE_LLANTAS>4</NUMERO_DE_LLANTAS>
+  </AUTOMOVIL>
+</CONCESIONARIO>
